@@ -280,6 +280,8 @@ div {
         }
         p {
             margin: 0 0 1.234em;
+            // word-break: break-all;
+            text-align: left;
             code {
                 display: inline-block;
                 margin: 0 5px;
